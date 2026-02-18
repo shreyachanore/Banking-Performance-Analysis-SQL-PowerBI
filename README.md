@@ -57,8 +57,7 @@ Data Extraction (SQL) → Data Cleaning → Data Modeling → Dashboard Developm
 ##  Dashboard Preview
 
 ### Main Dashboard
-![Banking Dashboard 1](images/Dashboard1.png)
-
+![Banking Dashboard 1](Dashboard1.png.png)
 ### Detailed Analysis Dashboard
 ![Banking Dashboard 2](images/Dashboard2.png)
 
